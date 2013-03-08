@@ -1,6 +1,6 @@
 Boilerplate Starter HTML Kit
 ============================
 
-'$ bundle install'
-'$ compass watch'
-'$ python -m SimpleHTTPServer'
+`$ bundle install`
+`$ compass watch`
+`$ python -m SimpleHTTPServer`
